@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<legionName>Ultramarines</legionName>
+<homeworld>Earth</homeworld>
+<legionNo>13</legionNo>
+<codex>Codex Ultramarines</codex>
+<active>true</active>
+<members>
+    <name>Marneus Calgar</name>
+    <age>129</age>
+    <function>Chapter Master</function>
+    <battles>Battle of Macragge</battles>
+    <battles>Siege of Terra</battles>
+    <battles>battle of Thrax</battles>
+</members>
+<members>
+    <name>Ortan Cassius</name>
+    <age>89</age>
+    <function>Chaplain</function>
+    <battles>Battle of Macragge</battles>
+    <battles>Hive Fleet Kraken</battles>
+    <battles>Siege of Ultramar</battles>
+</members>

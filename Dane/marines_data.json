@@ -1,0 +1,23 @@
+{
+  "legionName": "Ultramarines",
+  "homeworld": "Earth",
+  "legionNo": 13,
+  "codex": "Codex Ultramarines",
+  "active": true,
+  "members": [
+    {
+      "name": "Marneus Calgar",
+      "age": 129,
+      "function": "Chapter Master",
+      "battles": ["Battle of Macragge", "Siege of Terra", "battle of Thrax"]
+    },
+    {
+      "name": "Ortan Cassius",
+      "age": 89,
+      "function": "Chaplain",
+      "battles":  [
+        "Battle of Macragge", "Hive Fleet Kraken", "Siege of Ultramar"
+      ]
+    }
+  ]
+}
